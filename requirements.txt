@@ -1,0 +1,11 @@
+fastapi==0.63.0
+Hypercorn==0.11.2
+librosa==0.8.0
+numpy==1.20.1
+pandas==1.2.2
+pydantic==1.7.3
+python-multipart==0.0.5
+SQLAlchemy==1.3.23
+starlette==0.13.6
+starlette-json==20.9.18
+uvicorn==0.13.3
